@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/ubuntu
-npm -f start
+pm2 -f next start 
